@@ -1,7 +1,7 @@
 # LATIHAN9DPBO2022
 Repositori untuk tugas praktikum mata kuliah Desain Pemrograman Berorientasi Objek materi Python GUI
 
-_Saya Rahma Maulida 2003688 mengerjakan Latihan Praktikum 9 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+_Saya Rahma Maulida 2003688 mengerjakan Latihan Praktikum 9 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin._
 
 Program ini merupakan program yang dapat menampilkan daftar seluruh residen yang berisikan jenis hunian, nama pemilik atau nama penghuni, dan button untuk menampilkan details dari setiap data residen. Pada window utama terdapat button Add Data yang tidak difungsikan dan Exit untuk keluar dari program. Details dari data setiap residen berisikan data nama pemilik, nama penghuni / jumlah kamar, luas tanah, kapasitas listrik, dokumen, dan summary. Pada window details terdapat button Exit untuk close window details dan kembali ke window utama.
 
